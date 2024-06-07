@@ -40,7 +40,7 @@ npx expo start
 
 Check out the demonstration videos to see ChatGPT Assistant in action:
 
-Please create a api-key access from the link mentioned below: [https://platform.openai.com/api-keys](url)
+Please create a api-key access from the link mentioned below: [Open-Ai API Keys](https://platform.openai.com/api-keys)
 
 After setting up the API Key, Use the ExpoGo App on your android or ios phone to scan the QR code and run the application.
 
