@@ -30,7 +30,7 @@ npm install
 3. Start the development server:
 
 ```
-expo start
+npx expo start
 ```
 
 
@@ -39,6 +39,10 @@ expo start
 ## Demo Videos
 
 Check out the demonstration videos to see ChatGPT Assistant in action:
+
+Please create a api-key access from the link mentioned below: [https://platform.openai.com/api-keys](url)
+
+After setting up the API Key, Use the ExpoGo App on your android or ios phone to scan the QR code and run the application.
 
 ![0519](https://github.com/falatekmen/ChatGPT-Assistant/assets/81239267/0f9716b3-2a42-4dba-b5dc-d65faa837487)
 
