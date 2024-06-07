@@ -15,7 +15,7 @@ To use the application, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/falatekmen/ChatGPT-Assistant.git
+git clone https://github.com/falatekmen/ChatGPT-Assistant.git](https://github.com/mr-robot-abhi/ChatGpt-Dall-E-Assistant
 ```
 
 
